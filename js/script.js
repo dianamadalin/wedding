@@ -102,7 +102,7 @@
       }, 1100);
       
       // Submit form to Google Sheets via Apps Script
-      var scriptUrl = 'https://script.google.com/macros/s/AKfycbwNsq640UVPw5iA8F5RX-6avqPa7NyH11t69uw5gC2NQA--KUQP-hhBfq40ExOvc7AM/exec';
+      var scriptUrl = 'https://script.google.com/macros/s/AKfycbwxEQe69I-5rebev8nYT-ugBKKTMa2w6Dgfr-mfnx0KjGZ7MWK5wrh4ixPgp9fsJpCB/exec';
       
       // Submit using AJAX with form data
       $.ajax({
